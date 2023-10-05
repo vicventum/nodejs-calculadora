@@ -22,6 +22,9 @@
 		"#Lib/*": "./src/lib/*",
 		"#Constants/*": [
 			"./src/constants/*"
+		],
+		"#Errors/*": [
+			"./src/errors/*"
 		]
 	},
 	"devDependencies": {
