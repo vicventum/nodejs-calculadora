@@ -4,7 +4,8 @@
 		"baseUrl": "./",
 		"module": "NodeNext",
 		"paths": {
-			"#Lib/*": ["./src/lib/*"]
+			"#Lib/*": ["./src/lib/*"],
+			"#Constants/*": ["./src/constants/*"]
 		}
 	}
 }
